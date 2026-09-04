@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:8A8AFF,50:5C5CFF,75:2E2EFF,100:0000FF&text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
-💻CONHEÇA MAIS SOBRE MIM
+👨‍💻CONHEÇA MAIS SOBRE MIM
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Soon+A+Full+Stack+Developer;PYTHON+%7C+IHM+%7C+CSS;Creating+My+Own+Future" />
 
@@ -80,6 +80,8 @@ HTML • CSS • JavaScript
 
 ---
 
+---
+
 <table>
 <tr>
 
@@ -87,7 +89,7 @@ HTML • CSS • JavaScript
 
 ### 💻HDS Automação
 
-Software para vendas com a CONTRINEX
+Software para vendas com a empresa CONTRINEX
 
 Tecnologias:
 
@@ -135,7 +137,7 @@ HTML • CSS • JavaScript
 
 <td width="33%">
 
-### 📌PERFIL DO USUÁRIO
+### 🙍‍♂️PERFIL DO USUÁRIO
 
 Página que permite o usuário personalizar seu perfil
 
@@ -199,5 +201,5 @@ E aprofundar minhas habilidades com softwares e hardwares para futuramente busca
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?&type=waving&height=120&section=footer&color=0:000000,25:330000,50:660000,75:990000,100:FF0000&width=100%" style="width: 100%; display: block;"/>
+<img src="https://capsule-render.vercel.app/api?&type=waving&height=120&section=footer&color=0:000000,25:8A8AFF,50:5C5CFF,75:2E2EFF,100:0000FF&width=100%" style="width: 100%; display: block;"/>
 </div>
