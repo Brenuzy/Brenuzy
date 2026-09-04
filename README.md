@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:330000,50:660000,75:990000,100:FF0000&text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:8A8AFF,50:5C5CFF,75:2E2EFF,100:0000FF&text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
 💻CONHEÇA MAIS SOBRE MIM
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Soon+A+Full+Stack+Developer;PYTHON+%7C+IHM+%7C+CSS;Creating+My+Own+Future" />
@@ -15,7 +15,7 @@
 Nome - Victor Andrade da Costa
 Status - Online/Ocupado
 
-Formação - 2° ano E.M - Colégio Estadual do Paraná - Desenvolvimento de Sitemas 
+Formação - 2° ano E.M - Colégio Estadual Paraná - Desenvolvimento de Sitemas 
 Foco - Desenvolvimento Web
 
 Objetivo - Full Stack Developer e Computer Scientist
@@ -101,9 +101,43 @@ HTML • CSS • JavaScript
 
 Sistema de datas de eventos
 
+</td>
+
+<td width="33%">
+
 Tecnologias:
 
 HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+</table>
+
+---
+
+---
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 💡Sistema Integrador
+
+Software com ideias para o CEP
+
+Tecnologias:
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="33%">
+
+### 📌PERFIL DO USUÁRIO
+
+Página que permite o usuário personalizar seu perfil
 
 </td>
 
