@@ -192,7 +192,7 @@ E aprofundar minhas habilidades com softwares e hardwares para futuramente busca
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="victorandradedacosta@gmail.com">
+<a href="https://victorandradedacosta@gmail.com/">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
