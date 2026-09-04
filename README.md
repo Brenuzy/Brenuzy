@@ -104,6 +104,10 @@ HTML • CSS • JavaScript
 
 Sistema de datas de eventos
 
+Tecnologias:
+
+HTML • CSS • JavaScript
+
 </td>
 
 <td width="33%">
@@ -139,6 +143,10 @@ HTML • CSS • JavaScript
 ### 🙍‍♂️PERFIL DO USUÁRIO
 
 Página que permite o usuário personalizar seu perfil
+
+Tecnologias:
+
+HTML • CSS • JavaScript
 
 </td>
 
