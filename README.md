@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:8A8AFF,50:5C5CFF,75:2E2EFF,100:0000FF&text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
 👨‍💻CONHEÇA MAIS SOBRE MIM
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Soon,+a+full+Stack+Developer;PYTHON+%7C+IHM+%7C+CSS;Creating+My+Own+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Soon,+a+full+Stack+Developer;HTML+%7C+JS+%7C+CSS" />
 
 </div>
 
