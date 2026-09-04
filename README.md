@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:330000,50:660000,75:990000,100:7393B3![Uploading image.png…]()
 &text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
-# ⚡ JARVIS SYSTEM ONLINE
+# 💻CONHEÇA MAIS SOBRE MIM
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Software+Computer+Scientist;Full+Stack+Developer+In+Progress;Node.js+%7C+Express+%7C+JavaScript;Building+My+Own+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Full+Stack+Developer+In+Progress;PYTHON+%7C+IHM+%7C+CSS;Building+My+Own+Future" />
 
 </div>
 
