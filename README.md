@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:8A8AFF,50:5C5CFF,75:2E2EFF,100:0000FF&text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
 👨‍💻CONHEÇA MAIS SOBRE MIM
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Soon+A+Full+Stack+Developer;PYTHON+%7C+IHM+%7C+CSS;Creating+My+Own+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Soon,+a+full+Stack+Developer;PYTHON+%7C+IHM+%7C+CSS;Creating+My+Own+Future" />
 
 </div>
 
@@ -76,9 +76,10 @@ Tecnologias:
 
 HTML • CSS • JavaScript
 
-</td>
+</tr>
+</table>
 
----
+</td>
 
 ---
 
@@ -115,8 +116,6 @@ HTML • CSS • JavaScript
 
 </tr>
 </table>
-
----
 
 ---
 
@@ -183,14 +182,6 @@ E aprofundar minhas habilidades com softwares e hardwares para futuramente busca
 
 <a href="https://github.com/Brenuzy">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="[#](https://www.instagram.com/lau.sl11/)">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/laura-laurindo-34613b398/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="victorandradedacosta@gmail.com">
