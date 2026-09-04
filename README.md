@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:330000,50:660000,75:990000,100:7393B3![Uploading image.png…]()
-&text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:330000,50:660000,75:990000,100:FF0000&text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
 # 💻CONHEÇA MAIS SOBRE MIM
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Full+Stack+Developer+In+Progress;PYTHON+%7C+IHM+%7C+CSS;Building+My+Own+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Soon+A+Full+Stack+Developer;PYTHON+%7C+IHM+%7C+CSS;Creating+My+Own+Future" />
 
 </div>
 
@@ -17,13 +16,15 @@
 
 Nome - Victor Andrade da Costa
 Status - Online/Ocupado
-Formação - 2° ano Ensino Médio - Desenvolvimento de Sitemas 
+
+Formação - 2° ano E.M - Colégio Estadual do Paraná - Desenvolvimento de Sitemas 
 Foco - Desenvolvimento Web
-Objetivo - Full Stack Developer
+
+Objetivo - Full Stack Developer e Computer Scientist
 Localização - Curitiba - PR, BRASIL
 ```
 
-Sou estudante e desenvolvedor em formação, atualmente estudando HTML, CSS, JavaScript, Python, Git e GitHub.
+Sou um estudante ainda em formação, atualmente estudo HTML, CSS, JavaScript, Python, IHM, CLP, Git e GitHub.
 
 Tenho interesse em:
 
@@ -36,23 +37,6 @@ Tenho interesse em:
 
 ---
 
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-
-</div>
 
 ---
 
@@ -62,10 +46,6 @@ Tenho interesse em:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="60"/>
 
 </div>
 
