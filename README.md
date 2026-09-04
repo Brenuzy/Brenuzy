@@ -1,15 +1,13 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:330000,50:660000,75:990000,100:FF0000&text=VICTOR%20COSTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=58" width="100%"/>
-# 💻CONHEÇA MAIS SOBRE MIM
+💻CONHEÇA MAIS SOBRE MIM
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7393B3&center=true&vCenter=true&width=900&lines=Victor+Costa;Future+Computer+Scientist;Soon+A+Full+Stack+Developer;PYTHON+%7C+IHM+%7C+CSS;Creating+My+Own+Future" />
 
 </div>
 
 ---
-
-## 👩‍💻 Sobre Mim
 
 ```bash
 > USER IDENTIFIED
@@ -80,6 +78,35 @@ HTML • CSS • JavaScript
 
 </td>
 
+---
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 💻HDS Automação
+
+Software para vendas com a CONTRINEX
+
+Tecnologias:
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="33%">
+
+### 📌NOVIDADES E EVENTOS
+
+Sistema de datas de eventos
+
+Tecnologias:
+
+HTML • CSS • JavaScript
+
+</td>
+
 <td width="33%">
 
 Tecnologias:
@@ -108,7 +135,7 @@ E aprofundar minhas habilidades com softwares e hardwares para futuramente busca
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lausl11&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenuzy&theme=tokyonight"/>
 
 </div>
 
